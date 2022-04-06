@@ -1,0 +1,31 @@
+id: P78C27968
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG02764
+  instance_id: http://purl.bdrc.io/resource/IE00KG02764
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཏེར་ལུང་དགོན་པ་དང་བསེ་ཚང་སྤྲུལ་སྐུ་རིམ་བྱོན།
+  alt_title:
+    zh-hans:
+    - 德尔隆寺与历辈赛仓活佛
+  author: http://purl.bdrc.io/resource/P00KG09876
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    cc061b345e00434ba1e47b9f8ce827eb:
+      title: པོད ༡་གཏེར་ལུང་དགོན་པ་དང་བསེ་ཚང་སྤྲུལ་སྐུ་རིམ་བྱོན།
+      volume_number: 1
+      base_file: UT00KG02764_I00KG09984_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8D2D34EF54541CC0
+      image_group: I00KG09984
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG02764
+  - http://purl.bdrc.io/resource/W00KG02764
+  ocr_software: Namsel
+created_at: '2021-12-22T10:15:35.558348'
+last_modified_at: '2021-12-22T10:15:35.558355'
